@@ -1,4 +1,6 @@
 # ImgagetoText_Generation
+**Refer readme_file.docx**
+
 Generation of code using the screenshots Images.
 The details of the model is given in the readme_file.
 data_desciption notebook for dataset analysis.
