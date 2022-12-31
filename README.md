@@ -1,8 +1,8 @@
 # ImgagetoText_Generation
-**Refer readme_file.docx**
+**Refer readme_file.pdf**
 
 Generation of code using the screenshots Images.
-The details of the model is given in the readme_file.
+The details of the model is given in the readme_file.pdf.
 data_desciption notebook for dataset analysis.
 Following colab files for the three different models for the three datasets.
 D1_images_to_text.ipynb
